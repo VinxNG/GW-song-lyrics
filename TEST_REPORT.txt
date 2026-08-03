@@ -1,0 +1,7 @@
+song_sections: 10
+menu_links: 10
+all_menu_targets_exist: True
+landing_poster_present: True
+font_controls_present: True
+theme_control_present: True
+watermark_css_present: True
